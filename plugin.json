@@ -1,0 +1,21 @@
+{
+  "type": "panel",
+  "name": "Clock",
+  "id": "grafana-clock-panel",
+
+  "info": {
+    "description": "Clock panel for grafana",
+    "author": {
+      "name": "ARS Informatica",
+      "url": "http://www.arsinfo.it"
+    },
+    "keywords": ["clock", "panel"],
+    "version": "1.0.0",
+    "updated": "2018-07-24"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "5.x.x",
+    "plugins": [ ]
+  }
+}
